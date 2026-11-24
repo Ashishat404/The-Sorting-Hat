@@ -1,6 +1,6 @@
 # The Sorting Hat
 
-A student-sorting project inspired by the four-house tradition in the *Harry Potter* series. At the start of the school year, the Sorting Hat considers each student's qualities, choices, and aspirations, then assigns them to one of four houses.
+A student-sorting experience inspired by the four-house tradition in the *Harry Potter* series. Students have their photo taken, watch an animated Sorting Hat appear on their head, and answer a few questions before discovering their house.
 
 ## The Four Houses
 
@@ -11,11 +11,19 @@ A student-sorting project inspired by the four-house tradition in the *Harry Pot
 | Ravenclaw | Curiosity, creativity, learning, and wit |
 | Slytherin | Ambition, resourcefulness, leadership, and cunning |
 
-## How Sorting Works
+## Student Sorting Experience
 
-1. A student takes their turn before the school.
-2. The Sorting Hat considers the student's strengths, values, and aspirations.
-3. The Hat announces the house that best fits the student.
-4. The student joins that house and takes part in its community and friendly competitions.
+1. The student starts the sorting experience and takes a photo.
+2. The photo appears on screen as an animation places the Sorting Hat on the student's head.
+3. The student answers a short series of questions about their choices, values, and preferences.
+4. Their answers help determine which house best fits them.
+5. The result is revealed, and the student is welcomed into their house.
 
-A student can have qualities associated with more than one house. The Sorting Hat considers the whole person, and a student's own choices may also matter. No house is better than another: each celebrates different strengths, and every student can grow in any house.
+The questions are designed to consider different strengths, rather than treating one quality as the only factor. A student may show qualities associated with several houses, and no house is better than another.
+
+## House Qualities
+
+- **Gryffindor:** courage, bravery, and determination.
+- **Hufflepuff:** loyalty, patience, fairness, and hard work.
+- **Ravenclaw:** curiosity, creativity, learning, and wit.
+- **Slytherin:** ambition, resourcefulness, leadership, and cunning.
